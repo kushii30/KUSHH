@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+    font-size: medium;
+}
+
+table{
+    font: size 16px;
+    background-color: rgb(72, 42, 42);
+    padding: auto;
+    border: 10cm;
+    border-radius: 5px;
+}
